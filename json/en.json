@@ -1,0 +1,257 @@
+[
+  {
+    "title": "角色卡篇",
+    "items": [
+      {
+        "title": "創造角色卡",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/character-sheet/create-1-zh-tw.gif",
+            "content": "創造角色卡, 可以在物件控制台處去創造角色卡, 並且去操作該角色卡"
+          },
+          {
+            "url": "/images/doc/tutorial/character-sheet/create-2-zh-tw.gif",
+            "content": "如果是玩家, 可以直接在自己的欄位去創造角色卡, 系統會判定自動操作該角色卡"
+          }
+        ]
+      },
+      {
+        "title": "操作或解除操作角色",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/character-sheet/control-1-zh-tw.gif",
+            "content": "在自己的角色卡上, 可以點擊操作角色或清除角色來操作/解除操作角色"
+          },
+          {
+            "url": "/images/doc/tutorial/character-sheet/control-2-zh-tw.gif",
+            "content": "或是直接在人形按鈕上方直接選擇自己想要的角色(支援搜尋)"
+          }
+        ]
+      },
+      {
+        "title": "不同房間共用角色卡",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/character-sheet/save-1-zh-tw.jpg",
+            "content": "首先, 先在預定要分享的角色卡上選擇保存"
+          },
+          {
+            "url": "/images/doc/tutorial/character-sheet/save-2-zh-tw.gif",
+            "content": "接著, 在新房間, 在保存庫裡面把保存的角色卡拉出來"
+          },
+          {
+            "url": "/images/doc/tutorial/character-sheet/save-3-zh-tw.jpg",
+            "content": "除此之外, 在管理頁面也可以看自己保存的角色卡"
+          }
+        ]
+      },
+      {
+        "title": "變更右方角色技能欄位",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/character-sheet/main-skill-zh-tw.gif",
+            "content": "打開角色卡->設定, 修改主要技能"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "頻道篇",
+    "items": [
+      {
+        "title": "調整主頻道高度",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/channel/adjust-channel-zh-tw.gif",
+            "content": "可以在主頻道的上緣調整頻道的大小"
+          }
+        ]
+      },
+      {
+        "title": "變動送出訊息的快捷鍵",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/channel/enter-zh-tw.jpg",
+            "content": "在設定控制台可以切換送出熱鍵為Enter 或是Ctrl+Enter"
+          }
+        ]
+      },
+      {
+        "title": "私訊頻道分頁",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/channel/channel-tab-zh-tw.gif",
+            "content": "對於需要多頻道的團, 可以嘗試將其他的頻道放在另一個分頁上"
+          }
+        ]
+      },
+      {
+        "title": "編輯或刪除訊息(GM)",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/channel/edit-message-zh-tw.jpg",
+            "content": "GM可以對訊息進行編輯或是刪除"
+          }
+        ]
+      },
+      {
+        "title": "切換主頻道(章節化團錄)",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/channel/archive-zh-tw.gif",
+            "content": "如果你們覺得頻道文字量太大的話, GM可以在私訊頻道開新頻道, 然後在設定那邊把主頻道切成新頻道. 用章節式處理, 團錄可能整理起來會比較方便"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "骰子",
+    "items": [
+      {
+        "title": "擲骰子",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/dice/roll-1-zh-tw.gif",
+            "content": "可以在擲骰視窗上擲骰"
+          },
+          {
+            "url": "/images/doc/tutorial/dice/roll-2-zh-tw.gif",
+            "content": "或是在角色卡上直接右鍵對該技能擲骰"
+          },
+          {
+            "url": "/images/doc/tutorial/dice/roll-3-zh-tw.gif",
+            "content": "甚至直接在對話框上面擲骰(/r 1D100 <= 50 @ 聆聽)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "地圖篇",
+    "items": [
+      {
+        "title": "在地圖上標示位置",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/map/pointer-1-zh-tw.gif",
+            "content": "在TRPG網頁版裡, 若想要標記一個位置給所有人知道, 可以在地圖上長按左鍵, 就可以標上位置了"
+          },
+          {
+            "url": "/images/doc/tutorial/map/pointer-2-zh-tw.gif",
+            "content": "如果是GM想要把所有人移動到某個位置上, 可以使用Shift + 左鍵來移動所有玩家"
+          }
+        ]
+      },
+      {
+        "title": "移動棋盤",
+        "body": [
+          {
+            "url": "",
+            "content": "除了可以用滑鼠拖移之外, 按下WSAD也可以直接移動地圖"
+          }
+        ]
+      },
+      {
+        "title": "放置棋子",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/map/put-item-1-zh-tw.gif",
+            "content": "將角色從物件控制台拖進地圖"
+          },
+          {
+            "url": "/images/doc/tutorial/map/put-item-2-zh-tw.gif",
+            "content": "或是直接從右方角色欄拖進地圖也可"
+          }
+        ]
+      },
+      {
+        "title": "地圖顯示方式",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/map/display-zh-tw.jpg",
+            "content": "棋盤上的地圖總共有5種顯示方式: 顯示, 迷霧, 黑幕, 表裡地圖透視以及隱藏. \n\n| 顯示 | 迷霧 | 黑幕 | 表裡地圖透視 | 隱藏 |\n| ------ | ------ | ------ | ------ | ------ |\n| GM以及使用者都可以看到地圖以及上面的棋子子 | 使用者可以看到地圖, 但卻看不到上面的棋子 | 預設使用者畫面全黑, GM可以利用編輯器打開部分地圖給玩家 | 預設使用者顯示表地圖, GM可以利用編輯器顯示部分裏地圖給玩家 | 不顯示地圖給玩家 |"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GM篇",
+    "items": [
+      {
+        "title": "玩家視角",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm/player-mode-zh-tw.gif",
+            "content": "GM可以在設定控制台選擇玩家視角開啟玩家視角頁面, 系統會自動登入使用者(Guest)來給GM使用"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GM - 地圖篇",
+    "items": [
+      {
+        "title": "上傳地圖",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/upload-zh-tw.gif",
+            "content": ""
+          }
+        ]
+      },
+      {
+        "title": "排版棋盤上的地圖",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/mapping-zh-tw.gif",
+            "content": "可以利用排版來調整整體地圖"
+          }
+        ]
+      },
+      {
+        "title": "自動調整地圖格子大小",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/grid-resize-zh-tw.gif",
+            "content": ""
+          }
+        ]
+      },
+      {
+        "title": "表裡地圖設定",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/sub-map-1-zh-tw.gif",
+            "content": "一個地圖區塊最多可以放兩張圖, 分為表地圖以及裏地圖. GM可以自由切換自己和玩家現在看到的是表地圖以及裏地圖. 表裏地圖可以有以下功用\n - 時間場景的推移: 可能兩張圖一張上午一張下午, 時間經過時可以接換場景. \n - GM限定地圖: 像上面這張GM專用地圖有標示細節, 而玩家則沒有. \n - 表裏地圖透視: 詳見表裏地圖透視說明"
+          },
+          {
+            "url": "/images/doc/tutorial/gm-map/sub-map-2-zh-tw.gif",
+            "content": "裏地圖可以在地圖上傳區選擇第二張地圖上傳"
+          }
+        ]
+      },
+      {
+        "title": "設定戰爭迷霧",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/grid-resize-zh-tw.gif",
+            "content": "要設定戰爭迷霧, 顯示方式必須為黑幕. 打開編輯器之後即可開始編輯調整.\n\n**註**:在編輯器打開之後, 棋盤是無法使用滑鼠拖動的, 但是可以利用鍵盤WSAD來移動"
+          }
+        ]
+      },
+      {
+        "title": "表裏地圖透視",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/gm-map/perspective-zh-tw.gif",
+            "content": "像陷阱特效這樣的東西, GM甚至可以部份顯示. 只秀給玩家可以看到部分, 像上面地圖裏地圖全部房屋都著火了, 但GM只秀出兩間著火的房屋給玩家看(顯示方式需改成\"表裡地圖透視\")"
+          }
+        ]
+      }
+    ]
+  }
+]
