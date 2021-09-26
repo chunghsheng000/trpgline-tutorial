@@ -253,5 +253,19 @@
         ]
       }
     ]
+  },
+  {
+    "title": "回合制",
+    "items": [
+      {
+        "title": "GM 操作篇",
+        "body": [
+          {
+            "url": "/images/doc/tutorial/turn-order/turn-order-walkthrough-zh-tw.gif",
+            "content": "1. GM可以在齒輪那邊匯入玩家的角色卡進回合制度 \n2. GM可以點擊\">\"或是\"<\"來標示現在角色的回合\n3. GM可以點擊\">>\"或是\"<<\"來調整回合.\n4. 點擊回合制的角色可以修改該角色的數值.\n5. GM可以拉動回合制內的角色來調整順序"
+          }
+        ]
+      }
+    ]
   }
 ]

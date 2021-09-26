@@ -1,6 +1,6 @@
 {
   "name": "trpgline-tutorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the repo to update the manual in trpgline room",
   "main": "index.js",
   "scripts": {
