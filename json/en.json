@@ -1,201 +1,201 @@
 [
   {
-    "title": "角色卡篇",
+    "title": "Character Sheet",
     "items": [
       {
-        "title": "創造角色卡",
+        "title": "Create a new character",
         "body": [
           {
             "url": "/images/zh-tw/character-sheet/create-1-zh-tw.gif",
-            "content": "創造角色卡, 可以在物件控制台處去創造角色卡, 並且去操作該角色卡"
+            "content": "A user could create a new character via item panel, and control the character by clicking `Control Character` button in the character sheet"
           },
           {
             "url": "/images/zh-tw/character-sheet/create-2-zh-tw.gif",
-            "content": "如果是玩家, 可以直接在自己的欄位去創造角色卡, 系統會判定自動操作該角色卡"
+            "content": "As a player, player could also create a new character via `Create item/Character` button in the user panel"
           }
         ]
       },
       {
-        "title": "操作或解除操作角色",
+        "title": "Control or clear control the character",
         "body": [
           {
             "url": "/images/zh-tw/character-sheet/control-1-zh-tw.gif",
-            "content": "在自己的角色卡上, 可以點擊操作角色或清除角色來操作/解除操作角色"
+            "content": "Open the character sheet, a player could click the `Control Character` button the control or clear control the character"
           },
           {
             "url": "/images/zh-tw/character-sheet/control-2-zh-tw.gif",
-            "content": "或是直接在人形按鈕上方直接選擇自己想要的角色(支援搜尋)"
+            "content": "Or clicks the user icon on the user panel"
           }
         ]
       },
       {
-        "title": "不同房間共用角色卡",
+        "title": "Share the character sheet in different rooms",
         "body": [
           {
             "url": "/images/zh-tw/character-sheet/save-1-zh-tw.jpg",
-            "content": "首先, 先在預定要分享的角色卡上選擇保存"
+            "content": "First of all, click `Save to storage` button in the character sheet, the character will be exported to the storage"
           },
           {
             "url": "/images/zh-tw/character-sheet/save-2-zh-tw.gif",
-            "content": "接著, 在新房間, 在保存庫裡面把保存的角色卡拉出來"
+            "content": "Second, pull the character from the storage tab in the item panel"
           },
           {
             "url": "/images/zh-tw/character-sheet/save-3-zh-tw.jpg",
-            "content": "除此之外, 在管理頁面也可以看自己保存的角色卡"
+            "content": "Besides, users could also view the characters in the admin page"
           }
         ]
       },
       {
-        "title": "變更右方角色技能欄位",
+        "title": "Change the character highlight skills",
         "body": [
           {
             "url": "/images/zh-tw/character-sheet/main-skill-zh-tw.gif",
-            "content": "打開角色卡->設定, 修改主要技能"
+            "content": "Click `Setting` button in the character sheet, and then click the edit button in the `Primary Skills` part"
           }
         ]
       }
     ]
   },
   {
-    "title": "頻道篇",
+    "title": "Channel",
     "items": [
       {
-        "title": "調整主頻道高度",
+        "title": "Adjust the channel height",
         "body": [
           {
             "url": "/images/zh-tw/channel/adjust-channel-zh-tw.gif",
-            "content": "可以在主頻道的上緣調整頻道的大小"
+            "content": "Users could adjust the channel height by dragging the channel top edge"
           }
         ]
       },
       {
-        "title": "變動送出訊息的快捷鍵",
+        "title": "Change the sending message shortcut",
         "body": [
           {
             "url": "/images/zh-tw/channel/enter-zh-tw.jpg",
-            "content": "在設定控制台可以切換送出熱鍵為Enter 或是Ctrl+Enter"
+            "content": "From the control panel, users could stitch the sending message shortcut between Enter or Enter+Ctrl"
           }
         ]
       },
       {
-        "title": "私訊頻道分頁",
+        "title": "Private channel panel",
         "body": [
           {
             "url": "/images/zh-tw/channel/channel-tab-zh-tw.gif",
-            "content": "對於需要多頻道的團, 可以嘗試將其他的頻道放在另一個分頁上"
+            "content": "For the people who require multiple channels in each session, system "
           }
         ]
       },
       {
-        "title": "編輯或刪除訊息(GM)",
+        "title": "Edit or delete the message(GM)",
         "body": [
           {
             "url": "/images/zh-tw/channel/edit-message-zh-tw.jpg",
-            "content": "GM可以對訊息進行編輯或是刪除"
+            "content": "GM is able to delete the message from the channel"
           }
         ]
       },
       {
-        "title": "切換主頻道(章節化團錄)",
+        "title": "Switch the main channel(chapter the log)",
         "body": [
           {
             "url": "/images/zh-tw/channel/archive-zh-tw.gif",
-            "content": "如果你們覺得頻道文字量太大的話, GM可以在私訊頻道開新頻道, 然後在設定那邊把主頻道切成新頻道. 用章節式處理, 團錄可能整理起來會比較方便"
+            "content": "PBP session might face the enormous issue. To resolve the problem, GM is able to create a new channel in the channel panel, and switch the main channel via setting panel"
           }
         ]
       }
     ]
   },
   {
-    "title": "骰子",
+    "title": "Dice",
     "items": [
       {
-        "title": "擲骰子",
+        "title": "Roll the dice",
         "body": [
           {
             "url": "/images/zh-tw/dice/roll-1-zh-tw.gif",
-            "content": "可以在擲骰視窗上擲骰"
+            "content": "Users are able to roll the dice on the dice panel"
           },
           {
             "url": "/images/zh-tw/dice/roll-2-zh-tw.gif",
-            "content": "或是在角色卡上直接右鍵對該技能擲骰"
+            "content": "Or roll the dice directly on the character sheet by clicking the skill"
           },
           {
             "url": "/images/zh-tw/dice/roll-3-zh-tw.gif",
-            "content": "甚至直接在對話框上面擲骰(/r 1D100 <= 50 @ 聆聽)"
+            "content": "or send the command in the channel(/r 1D100 <= 50 @ Listening)"
           }
         ]
       }
     ]
   },
   {
-    "title": "地圖篇",
+    "title": "Maps",
     "items": [
       {
-        "title": "在地圖上標示位置",
+        "title": "Point the position on the map",
         "body": [
           {
             "url": "/images/zh-tw/map/pointer-1-zh-tw.gif",
-            "content": "在TRPG網頁版裡, 若想要標記一個位置給所有人知道, 可以在地圖上長按左鍵, 就可以標上位置了"
+            "content": "By pressing mouse left click in the target position for few seconds, system will highlight the position to all users in the rooms"
           },
           {
             "url": "/images/zh-tw/map/pointer-2-zh-tw.gif",
-            "content": "如果是GM想要把所有人移動到某個位置上, 可以使用Shift + 左鍵來移動所有玩家"
+            "content": "In addition, GM is able to move everyone's viewing by shift + left click"
           }
         ]
       },
       {
-        "title": "移動棋盤",
+        "title": "Move the checkerboard",
         "body": [
           {
             "url": "",
-            "content": "除了可以用滑鼠拖移之外, 按下WSAD也可以直接移動地圖"
+            "content": "Users could move the checkerboard by dragging it or press WSAD key in the keyboard"
           }
         ]
       },
       {
-        "title": "放置棋子",
+        "title": "Add a token",
         "body": [
           {
             "url": "/images/zh-tw/map/put-item-1-zh-tw.gif",
-            "content": "將角色從物件控制台拖進地圖"
+            "content": "Users could create a new token by dragging the item into the checkerboard"
           },
           {
             "url": "/images/zh-tw/map/put-item-2-zh-tw.gif",
-            "content": "或是直接從右方角色欄拖進地圖也可"
+            "content": "Or drag the image from the user list"
           }
         ]
       },
       {
-        "title": "地圖顯示方式",
+        "title": "Map status",
         "body": [
           {
             "url": "/images/zh-tw/map/display-zh-tw.jpg",
-            "content": "棋盤上的地圖總共有5種顯示方式: 顯示, 迷霧, 黑幕, 表裡地圖透視以及隱藏. \n\n| 顯示 | 迷霧 | 黑幕 | 表裡地圖透視 | 隱藏 |\n| ------ | ------ | ------ | ------ | ------ |\n| GM以及使用者都可以看到地圖以及上面的棋子子 | 使用者可以看到地圖, 但卻看不到上面的棋子 | 預設使用者畫面全黑, GM可以利用編輯器打開部分地圖給玩家 | 預設使用者顯示表地圖, GM可以利用編輯器顯示部分裏地圖給玩家 | 不顯示地圖給玩家 |"
+            "content": "There are 5 status about maps in the checkerboard: Display, Fog, Black screen, Perspective and Hidden. \n\n| Display | Fog | Black screen | Perspective | Hidden |\n| ------ | ------ | ------ | ------ | ------ |\n| GM and players are able to see the map and the tokens  | players could only see the map without tokens | The map will be showing black screen at begin, while GM could reveal the map partially from editor | review the map 1 by default, while GM could reveal the map 2 partially from the editor | map won't be showing to the players |"
           }
         ]
       }
     ]
   },
   {
-    "title": "GM篇",
+    "title": "GM",
     "items": [
       {
-        "title": "玩家視角",
+        "title": "Player version",
         "body": [
           {
             "url": "/images/zh-tw/gm/player-mode-zh-tw.gif",
-            "content": "GM可以在設定控制台選擇玩家視角開啟玩家視角頁面, 系統會自動登入使用者(Guest)來給GM使用"
+            "content": "GM is able to enter the room as player by clicking the player button in the setting panel, system will open a new page and enter as player `Guest`"
           }
         ]
       }
     ]
   },
   {
-    "title": "GM - 地圖篇",
+    "title": "GM - about map",
     "items": [
       {
-        "title": "上傳地圖",
+        "title": "Upload a new map",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/upload-zh-tw.gif",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "title": "排版棋盤上的地圖",
+        "title": "relocate the map",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/mapping-zh-tw.gif",
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "title": "自動調整地圖格子大小",
+        "title": "Adjust the map size automatically",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/grid-resize-zh-tw.gif",
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "title": "表裡地圖設定",
+        "title": "Perspective settings",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/sub-map-1-zh-tw.gif",
@@ -235,7 +235,7 @@
         ]
       },
       {
-        "title": "設定戰爭迷霧",
+        "title": "War fog settings",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/grid-resize-zh-tw.gif",
@@ -244,11 +244,25 @@
         ]
       },
       {
-        "title": "表裏地圖透視",
+        "title": "Perspective mode",
         "body": [
           {
             "url": "/images/zh-tw/gm-map/perspective-zh-tw.gif",
             "content": "像陷阱特效這樣的東西, GM甚至可以部份顯示. 只秀給玩家可以看到部分, 像上面地圖裏地圖全部房屋都著火了, 但GM只秀出兩間著火的房屋給玩家看(顯示方式需改成\"表裡地圖透視\")"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Turn Order",
+    "items": [
+      {
+        "title": "GM - about turn order",
+        "body": [
+          {
+            "url": "/images/zh-tw/turn-order/turn-order-walkthrough-zh-tw.gif",
+            "content": "1. GM is able to import all players characters by clicking the gear button in turn order panel \n2. GM could rearrange the characters turn order by clicking \">\" or \"<\" buttons \n3. GM could increase/decrease the turn number by clicking \">>\" or \"<<\" buttons.\n4. GM could update the turn order value in each character.\n5. GM could also move the character to change the character turn order"
           }
         ]
       }
