@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chunghsheng000/trpgline-tutorial.git"
+    "url": "git+https://github.com/trgpline/trpgline-tutorial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chunghsheng000/trpgline-tutorial/issues"
+    "url": "https://github.com/trgpline/trpgline-tutorial/issues"
   },
-  "homepage": "https://github.com/chunghsheng000/trpgline-tutorial#readme"
+  "homepage": "https://github.com/trgpline/trpgline-tutorial#readme"
 }
